@@ -113,7 +113,7 @@ any action they deem in violation of this Code of Conduct:
 ## Reporting Code of Conduct Issues
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting
-<todd@toddjonker.net>. All complaints will be reviewed and investigated promptly and fairly. Any
+<conduct@ion-fusion.dev>. All complaints will be reviewed and investigated promptly and fairly. Any
 member of the community may report a Code of Conduct issue, even if they were not the target of
 unacceptable behavior or harassment. Reports will be kept private and secure.
 
